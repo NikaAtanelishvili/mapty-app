@@ -1,0 +1,19 @@
+{
+  "name": "15-mapty",
+  "version": "1.0.0",
+  "description": "mapty app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikaAtanelishvili/mapty-app.git"
+  },
+  "author": "Nika Atanelishvili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikaAtanelishvili/mapty-app/issues"
+  },
+  "homepage": "https://github.com/NikaAtanelishvili/mapty-app#readme"
+}
